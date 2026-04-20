@@ -27,6 +27,9 @@ The dataset contains information about IPL matches including:
 - Certain venues show clear patterns favouring batting or bowling team.
 - Team proformence varies significantly across seasons and conditions.
 
+# # 📈 Visualizations
+Key graphs and charts were created using Matplotlib and Seaborn to understand patterns in data.
+
 ## 📈 Analysis Performed
 - Data Cleaning and Preprocessing
 - Handling missing values
@@ -38,5 +41,6 @@ This analysis highlights key factors that influence IPL match outcomes. Teams ca
 
 ## 🚀 Future Scope
 - Player performance analysis
+- Machine Learning model for match prediction
 - Predictive modeling using machine learning
 - Win probability prediction
