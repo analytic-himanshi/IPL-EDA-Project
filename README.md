@@ -27,6 +27,12 @@ The dataset contains information about IPL matches including:
 - Certain venues show clear patterns favouring batting or bowling team.
 - Team proformence varies significantly across seasons and conditions.
 
+ ## 📊 Visualizations
+![Toss Factor](Screenshot%202026-04-20%20233318.png)
+![Top Venues](Screenshot%202026-04-20%20233445.png)
+![Match Outcomes](Screenshot%202026-04-20%20233512.png)
+![Team Performance](Screenshot%202026-04-20%20233602.png)
+
 # # 📈 Visualizations
 Key graphs and charts were created using Matplotlib and Seaborn to understand patterns in data.
 
