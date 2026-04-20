@@ -22,10 +22,10 @@ The dataset contains information about IPL matches including:
 - Jupyter Notebook
 
 ## 🔍 Key Insights
-- Teams batting second tend to win more matches.
+- Team batting second(chasing)win majority of matches(~55-60%)
 - Toss decision plays a significant role in match outcome.
-- Certain venues favor specific teams.
-- Some teams show consistent performance across seasons.
+- Certain venues show clear patterns favouring batting or bowling team.
+- Team proformence varies significantly across seasons and conditions.
 
 ## 📈 Analysis Performed
 - Data Cleaning and Preprocessing
